@@ -1,0 +1,17 @@
+draft Shaquille ONeal
+ft 1
+ft 1
+ft 0
+points
+draft Michael Bahadur Jordan
+fg 0
+fg 2
+fg 3
+ft 1
+ft 1
+points
+id
+avg
+stats
+count
+score
